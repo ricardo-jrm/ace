@@ -2,7 +2,7 @@
 
 # ♠ `@ricardo-jrm/ace`
 
-<b>React Module Boilerplate</b>
+<b>React Tooling Collection</b>
 
 ![build](https://img.shields.io/github/workflow/status/ricardo-jrm/ace/Continuous%20Integration?style=for-the-badge)
 ![license](https://img.shields.io/github/license/ricardo-jrm/ace?style=for-the-badge)
@@ -76,7 +76,6 @@ yarn sb
 ### <b>Project</b>
 
 - [Project Page](https://l1b3r.notion.site/ace-afe5940ab5f94d78b74ab8a4f57a5cfb)
-- [M0: MVP](https://l1b3r.notion.site/M0-MVP-aa4c364b30a64abb885bdbad77faa740)
 - [Source Code](https://github.com/ricardo-jrm/ace)
 - [Releases Page](https://github.com/ricardo-jrm/ace/releases)
 
@@ -88,10 +87,12 @@ yarn sb
 - <b>React Module Boilerplate: [🟣 @ricardo-jrm/supernova](https://github.com/ricardo-jrm/supernova)</b>
 - <b>TS Utility Scripts: [🌙 @ricardo-jrm/dervish](https://github.com/ricardo-jrm/dervish)</b>
 - <b>React Utility Hooks: [🌘 @ricardo-jrm/reaper](https://github.com/ricardo-jrm/reaper)</b>
+- <b>Misc Collection: [🎭 @ricardo-jrm/mesmer](https://github.com/ricardo-jrm/mesmer)</b>
 - <b>React UI Components and Themes: [🔥 @ricardo-jrm/fury](https://github.com/ricardo-jrm/fury)</b>
 - <b>React Meta Data Handler: [⚫ @ricardo-jrm/pain](https://github.com/ricardo-jrm/pain)</b>
 - <b>React API Client: [🌸 @ricardo-jrm/empathy](https://github.com/ricardo-jrm/empathy)</b>
 - <b>React Lightweight Intl: [☁ @ricardo-jrm/echo](https://github.com/ricardo-jrm/echo)</b>
+- <b>Vega Lite with React and TS: [🟢 @ricardo-jrm/vera](https://github.com/ricardo-jrm/vera)</b>
 
 <br />
 

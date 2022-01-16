@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟣 `@ricardo-jrm/ace`
+# ♠ `@ricardo-jrm/ace`
 
 <b>React Module Boilerplate</b>
 
@@ -11,56 +11,12 @@
 
 ![lang](https://img.shields.io/github/languages/top/ricardo-jrm/ace?style=for-the-badge)
 ![version](https://img.shields.io/npm/v/@ricardo-jrm/ace?style=for-the-badge)
-![size](https://img.shields.io/bundlephobia/min/@ricardo-jrm/ace?style=for-the-badge)
 
 </div>
 
 <br />
 
 ---
-
-<br />
-
-### <b>Bootstrap</b>
-
-```tsx
-npx @ricardo-jrm/ace
-```
-
-Boilerplate `React` project bootstrapped with all necessary configs and workflows
-
-<br />
-
-### <b>Workflows</b>
-
-Quality Assurance
-
-- Will lint code and run tests
-- Runs on `pull_request` sync and `push` to `main`
-
-Release
-
-- Will create a GitHub release with auto generated versioning and changelog
-- Will publish the package to the public NPM registry
-- Runs on `push` to `main` and after the QA job
-
-Publish to GitHub (Public)
-
-- Will publish the package to the public GitHub registry
-- Runs on `workflow_dispatch`
-
-<br />
-
----
-
-<br />
-
-### <b>Project</b>
-
-- [Project Page](https://l1b3r.notion.site/ace-afe5940ab5f94d78b74ab8a4f57a5cfb)
-- [M0: MVP](https://l1b3r.notion.site/M0-MVP-aa4c364b30a64abb885bdbad77faa740)
-- [Source Code](https://github.com/ricardo-jrm/ace)
-- [Releases Page](https://github.com/ricardo-jrm/ace/releases)
 
 <br />
 
@@ -93,6 +49,36 @@ import {
 // provider
 import { ExampleProvider, ExampleProviderProps } from '@ricardo-jrm/ace';
 ```
+
+<br />
+
+### <b>Scripts</b>
+
+```tsx
+// install deps
+yarn install
+
+// run build
+yarn build
+
+// run lint
+yarn lint
+
+// run unit tests
+yarn test
+
+// run storybook
+yarn sb
+```
+
+<br />
+
+### <b>Project</b>
+
+- [Project Page](https://l1b3r.notion.site/ace-afe5940ab5f94d78b74ab8a4f57a5cfb)
+- [M0: MVP](https://l1b3r.notion.site/M0-MVP-aa4c364b30a64abb885bdbad77faa740)
+- [Source Code](https://github.com/ricardo-jrm/ace)
+- [Releases Page](https://github.com/ricardo-jrm/ace/releases)
 
 <br />
 

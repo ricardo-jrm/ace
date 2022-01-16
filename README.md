@@ -86,6 +86,7 @@ yarn sb
 
 - <b>TS Package Boilerplate: [🟪 @ricardo-jrm/nova](https://github.com/ricardo-jrm/nova)</b>
 - <b>React Module Boilerplate: [🟣 @ricardo-jrm/supernova](https://github.com/ricardo-jrm/supernova)</b>
+- <b>TS Utility Scripts: [🌙 @ricardo-jrm/dervish](https://github.com/ricardo-jrm/dervish)</b>
 - <b>React Utility Hooks: [🌘 @ricardo-jrm/reaper](https://github.com/ricardo-jrm/reaper)</b>
 - <b>React UI Components and Themes: [🔥 @ricardo-jrm/fury](https://github.com/ricardo-jrm/fury)</b>
 - <b>React Meta Data Handler: [⚫ @ricardo-jrm/pain](https://github.com/ricardo-jrm/pain)</b>

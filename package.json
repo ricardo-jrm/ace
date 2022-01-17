@@ -1,6 +1,6 @@
 {
   "name": "@ricardo-jrm/ace",
-  "description": "Tooling collection",
+  "description": "React tooling collection",
   "version": "0.0.0-development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -101,6 +101,7 @@
     "@ricardo-jrm/echo": "^2.0.1",
     "@ricardo-jrm/empathy": "^1.0.1",
     "@ricardo-jrm/fury": "^4.0.0",
+    "@ricardo-jrm/mesmer": "^1.0.0",
     "@ricardo-jrm/pain": "^2.1.0",
     "@ricardo-jrm/reaper": "^1.0.1",
     "next": "^12.0.8",

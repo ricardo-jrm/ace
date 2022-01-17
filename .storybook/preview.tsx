@@ -1,7 +1,5 @@
 import { AceProvider } from '../src';
-import { locales } from '../src/cfg/locales';
-import { metas } from '../src/cfg/metas';
-import { themes } from '../src/cfg/themes';
+import { locales, metas, themes } from '@ricardo-jrm/mesmer';
 
 export const parameters = {
   actions: { argTypesRegex: '^on[A-Z].*' },

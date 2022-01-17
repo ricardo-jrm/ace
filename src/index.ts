@@ -1,3 +1,6 @@
+// notistack
+export { useSnackbar } from 'notistack';
+
 // ace
 export { AceProvider } from './providers/AceProvider';
 export { Text } from './components/Text';

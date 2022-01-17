@@ -30,28 +30,6 @@ yarn add @ricardo-jrm/ace
 
 <br />
 
-### <b>Usage</b>
-
-```tsx
-// component
-import { ExampleComponent, ExampleComponentProps } from '@ricardo-jrm/ace';
-
-// hook
-import { useExampleHook, ExampleHookType } from '@ricardo-jrm/ace';
-
-// context
-import {
-  ExampleContext,
-  useExampleContext,
-  ExampleContextType,
-} from '@ricardo-jrm/ace';
-
-// provider
-import { ExampleProvider, ExampleProviderProps } from '@ricardo-jrm/ace';
-```
-
-<br />
-
 ### <b>Scripts</b>
 
 ```tsx

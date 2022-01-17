@@ -2329,6 +2329,13 @@
     react "^17.0.2"
     react-dom "^17.0.2"
 
+"@ricardo-jrm/mesmer@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@ricardo-jrm/mesmer/-/mesmer-1.0.0.tgz#af0de1cbf0a20ccdf87013bcf8d9dd3dce31d397"
+  integrity sha512-2epFoNn+nGL0Dmm7IhHSop48WfgBlKTM2h9ScPQuC6KXJ8YHyx2gv3RCbmv7Y9HwQIeuBluzVi3p5HjB9I3iPQ==
+  dependencies:
+    canvas-confetti "^1.4.0"
+
 "@ricardo-jrm/number-format@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@ricardo-jrm/number-format/-/number-format-2.0.1.tgz#180ad0ffc441ddce453cdd69c3903f5d8241547e"
@@ -5423,6 +5430,11 @@ caniuse-lite@^1.0.30001283:
   version "1.0.30001299"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001299.tgz#d753bf6444ed401eb503cbbe17aa3e1451b5a68c"
   integrity sha512-iujN4+x7QzqA2NCSrS5VUy+4gLmRd4xv6vbBBsmfVqTx8bLAD8097euLqQgKxSVLvxjSDcvF1T/i9ocgnUFexw==
+
+canvas-confetti@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/canvas-confetti/-/canvas-confetti-1.4.0.tgz#840f6db4a566f8f32abe28c00dcd82acf39c92bd"
+  integrity sha512-S18o4Y9PqI/uabdlT/jI3MY7XBJjNxnfapFIkjkMwpz6qNxLFZOm2b22OMf4ZYDL9lpNWI+Ih4fEMVPwO1KHFQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"

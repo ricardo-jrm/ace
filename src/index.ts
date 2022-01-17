@@ -48,6 +48,7 @@ export {
   fireworks,
   locales,
   FOOTER_HEIGHT,
+  FOOTER_OFFSET,
   HEADER_HEIGHT,
   metas,
   sideburns,

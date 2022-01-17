@@ -2329,10 +2329,10 @@
     react "^17.0.2"
     react-dom "^17.0.2"
 
-"@ricardo-jrm/mesmer@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@ricardo-jrm/mesmer/-/mesmer-1.0.3.tgz#0259c74c4ee3a1d6cdfb30883ab39ca0ef199779"
-  integrity sha512-bV3imGQBInpTDCRlrtx1y0T0I5TTBvqsRbZKuRihvqX5NHMFVA0Om4MA4CN0wd3BS3fOh18SwwtUGubAQhO+0Q==
+"@ricardo-jrm/mesmer@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@ricardo-jrm/mesmer/-/mesmer-1.0.4.tgz#dfd6a523fd19976c54973e9d304ac69ff694af66"
+  integrity sha512-FAjazUZaVqZR9iMk+L///tapFP40cZ3S6wccszf1Rp3v94fVwhpxR9XchlVzGbQvAx5VmiN2L7MY/vhlLVluIw==
   dependencies:
     canvas-confetti "^1.4.0"
 

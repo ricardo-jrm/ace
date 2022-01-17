@@ -3,7 +3,18 @@ export { useSnackbar } from 'notistack';
 
 // ace
 export { AceProvider } from './providers/AceProvider';
+
 export { Text } from './components/Text';
+export type { TextProps } from './components/Text';
+
+export { Fullscreen } from './components/Fullscreen';
+export type { FullscreenProps } from './components/Fullscreen';
+
+export { Link } from './components/Link';
+export type { LinkProps } from './components/Link';
+
+export { Image } from './components/Image';
+export type { ImageProps } from './components/Image';
 
 // dervish
 export {

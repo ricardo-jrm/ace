@@ -1,7 +1,7 @@
-import React, { ReactNode } from 'react';
+import React from 'react';
 import NextLink from 'next/link';
 import Typography, { TypographyProps } from '@mui/material/Typography';
-import MuiLink, { LinkProps as MuiLinkProps } from '@mui/material/Link';
+import MuiLink from '@mui/material/Link';
 
 /**
  * Link props

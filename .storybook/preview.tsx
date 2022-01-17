@@ -1,4 +1,7 @@
-import { ExampleProvider } from '../src';
+import { AceProvider } from '../src';
+import { locales } from '../src/cfg/locales';
+import { metas } from '../src/cfg/metas';
+import { themes } from '../src/cfg/themes';
 
 export const parameters = {
   actions: { argTypesRegex: '^on[A-Z].*' },
@@ -11,5 +14,16 @@ export const parameters = {
 };
 
 export const decorators = [
-  (Story) => <ExampleProvider>{Story()}</ExampleProvider>,
+  (Story) => (
+    <AceProvider
+      locales={locales}
+      metas={metas}
+      themes={themes}
+      localesDefault="en"
+      metasDefault="nebula"
+      themesDefault="nebula"
+    >
+      {Story()}
+    </AceProvider>
+  ),
 ];

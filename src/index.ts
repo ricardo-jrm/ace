@@ -32,6 +32,18 @@ export { useEmpathy } from '@ricardo-jrm/empathy';
 export { useFury, FuryProvider } from '@ricardo-jrm/fury';
 export type { FuryProviderProps, FuryRecord } from '@ricardo-jrm/fury';
 
+// mesmer
+export {
+  fireworks,
+  locales,
+  FOOTER_HEIGHT,
+  HEADER_HEIGHT,
+  metas,
+  sideburns,
+  snow,
+  themes,
+} from '@ricardo-jrm/mesmer';
+
 // pain
 export { usePain, PainProvider } from '@ricardo-jrm/pain';
 export type {

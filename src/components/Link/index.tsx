@@ -14,13 +14,19 @@ export interface LinkProps extends TypographyProps {
 /**
  * Link
  */
-export const Link = ({ children, external, href, ...propsTypo }: LinkProps) => {
+export const Link = ({
+  children,
+  external,
+  href,
+  sx,
+  ...propsTypo
+}: LinkProps) => {
   const linkProps = external
     ? { target: '_blank', rel: 'noopener noreferrer' }
     : {};
 
   const linkComponent = (
-    <MuiLink href={href} {...linkProps}>
+    <MuiLink href={href} {...linkProps} sx={sx}>
       {children}
     </MuiLink>
   );

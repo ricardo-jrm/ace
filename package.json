@@ -1,7 +1,7 @@
 {
   "name": "@ricardojrmcom/ace",
   "description": "React tooling collection",
-  "version": "0.0.2-development",
+  "version": "0.0.3-development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "private": false,
@@ -93,11 +93,11 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@ricardojrmcom/dervish": "^3.0.0",
-    "@ricardojrmcom/echo": "^3.0.0",
-    "@ricardojrmcom/empathy": "^2.0.0",
-    "@ricardojrmcom/fury": "^5.0.0",
-    "@ricardojrmcom/pain": "^3.0.0",
-    "@ricardojrmcom/reaper": "^2.0.0"
+    "@ricardojrmcom/dervish": "3.0.0",
+    "@ricardojrmcom/echo": "3.0.0",
+    "@ricardojrmcom/empathy": "2.0.0",
+    "@ricardojrmcom/fury": "5.0.1",
+    "@ricardojrmcom/pain": "3.0.0",
+    "@ricardojrmcom/reaper": "2.0.0"
   }
 }
